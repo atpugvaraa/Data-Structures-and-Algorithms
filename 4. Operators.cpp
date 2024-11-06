@@ -34,4 +34,6 @@ int main() {
 
    bool not_equal_to = (a!=b);
    cout<< not_equal_to <<endl;
+
+   cout<< "0 = false and 1 = true"<< endl;
 }
